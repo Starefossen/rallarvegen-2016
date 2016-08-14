@@ -1,0 +1,20 @@
+
+<svg width="59px" height="59px" viewBox="-11 -25 59 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="cabin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-11.000000, -25.000000)">
+        <polygon id="Shape" fill="#3680AD" points="29.5 10 7.5 26.3333333 7.5 59 50.5 59 50.5 25.8064516"></polygon>
+        <path d="M53.615,31.449 L29.455,13.82 L5.329,30.549 C4.016,31.559 2.132,31.313 1.122,30 L1.122,30 C0.112,28.687 0.358,26.803 1.671,25.793 L29.545,6.18 L57.384,26.781 C58.673,27.822 58.874,29.711 57.833,31 L57.833,31 C56.792,32.289 54.903,32.49 53.615,31.449 L53.615,31.449 Z" id="Shape" fill="#4B4B4D"></path>
+        <polygon id="Shape" fill="#3D3D3F" points="51.5 22.426 51.5 13 45.5 13 45.5 17.986"></polygon>
+        <rect id="Rectangle-path" fill="#4B4B4D" x="23.5" y="39" width="12" height="20"></rect>
+        <circle id="Oval" fill="#C7CAC7" cx="26.5" cy="49" r="1"></circle>
+        <rect id="Rectangle-path" stroke="#6B5B4B" stroke-width="2" fill="#C6E2F7" x="24.5" y="24" width="10" height="10"></rect>
+        <polygon id="Shape" fill="#6B5B4B" points="34.5 28 30.5 28 30.5 24 28.5 24 28.5 28 24.5 28 24.5 30 28.5 30 28.5 34 30.5 34 30.5 30 34.5 30"></polygon>
+        <path d="M46.5,11 C46.24,11 45.979,10.89 45.79,10.71 C45.609,10.52 45.5,10.26 45.5,10 C45.5,9.74 45.609,9.479 45.79,9.29 C46.16,8.92 46.84,8.92 47.21,9.29 C47.39,9.479 47.5,9.74 47.5,10 C47.5,10.26 47.39,10.52 47.21,10.71 C47.02,10.89 46.76,11 46.5,11 L46.5,11 Z" id="Shape" fill="#C7CAC7"></path>
+        <path d="M50.5,11 C49.947,11 49.5,10.553 49.5,10 L49.5,6 C49.5,5.447 49.947,5 50.5,5 C51.053,5 51.5,5.447 51.5,6 L51.5,10 C51.5,10.553 51.053,11 50.5,11 L50.5,11 Z" id="Shape" fill="#C7CAC7"></path>
+        <path d="M50.5,4 C49.947,4 49.5,3.553 49.5,3 L49.5,1 C49.5,0.447 49.947,0 50.5,0 C51.053,0 51.5,0.447 51.5,1 L51.5,3 C51.5,3.553 51.053,4 50.5,4 L50.5,4 Z" id="Shape" fill="#C7CAC7"></path>
+        <path d="M46.5,8 C45.947,8 45.5,7.553 45.5,7 L45.5,5 C45.5,4.447 45.947,4 46.5,4 C47.053,4 47.5,4.447 47.5,5 L47.5,7 C47.5,7.553 47.053,8 46.5,8 L46.5,8 Z" id="Shape" fill="#C7CAC7"></path>
+        <path d="M46.5,3 C45.947,3 45.5,2.553 45.5,2 L45.5,1 C45.5,0.447 45.947,0 46.5,0 C47.053,0 47.5,0.447 47.5,1 L47.5,2 C47.5,2.553 47.053,3 46.5,3 L46.5,3 Z" id="Shape" fill="#C7CAC7"></path>
+    </g>
+</svg>
